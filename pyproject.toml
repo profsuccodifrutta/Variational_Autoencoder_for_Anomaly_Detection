@@ -1,0 +1,15 @@
+[project]
+name = "variational-autoencoder-for-anomaly-detection"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ipython==7.34.0",
+    "matplotlib==3.10.0",
+    "numpy==2.0.2",
+    "pillow==11.3.0",
+    "scikit-learn==1.6.1",
+    "torch==2.9.0",
+    "torchvision==0.24.0",
+]
