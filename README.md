@@ -1,6 +1,6 @@
 # Variational_Autoencoder_for_Anomaly_Detection
 
-You can check out the full report here: https://colab.research.google.com/drive/1_MFfC-tRfYXqq5EjwvsIu1ms5CYo7u_o
+You can check out the full report here: [https://colab.research.google.com/drive/1_MFfC-tRfYXqq5EjwvsIu1ms5CYo7u_o](https://colab.research.google.com/drive/1M3se_ebkPgMm7nj4BZyc7As__ibn49Bg?usp=sharing)
 
 The primary goal of this project is to develop an unsupervised learning framework for the identification of brain tumors in MRI scans. By leveraging the principles of anomaly detection, the system aims to distinguish between healthy brain tissue and pathological structures without requiring extensive labeled datasets of various tumor types.
 
