@@ -23,4 +23,7 @@ heatmaps:
 <img width="1706" height="989" alt="heat4" src="https://github.com/user-attachments/assets/581ba7fd-e278-43f0-8c47-cf51371e5fec" />
 <img width="1708" height="989" alt="heat1" src="https://github.com/user-attachments/assets/558e3372-b76c-4bdd-94fe-9c8ef0d15592" />
 
+latent space interpolation:
+<img width="1598" height="148" alt="interp8" src="https://github.com/user-attachments/assets/e0a95d66-5c6b-44aa-a494-ef8e22239c5a" />
+<img width="1598" height="148" alt="interp10" src="https://github.com/user-attachments/assets/ee93ef7d-02bf-40ce-9815-da6aa1791ff6" />
 
